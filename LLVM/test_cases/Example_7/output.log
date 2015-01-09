@@ -1,0 +1,30 @@
+0 write 0 32767
+0 read 0 0
+0 read 1 0
+0 read 1 0
+0 write 2 -1757736768
+0 read 2 1
+0 read 2 1
+0 write 1 0
+0 read 1 1
+0 write 0 0
+0 read 0 1
+0 read 1 1
+0 read 3 22
+0 func_entry
+0 write 4 56333704
+0 fork 1
+1 write 5 0
+0 func_exit
+1 read 1 1
+0 read 3 22
+1 write 6 1
+0 join 2
+1 read 6 0
+0 read 1 1
+1 read 1 1
+1 read 1 1
+1 write 7 57069024
+1 read 7 2
+1 read 7 2
+1 write 1 1

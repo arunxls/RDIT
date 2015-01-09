@@ -1,0 +1,25 @@
+0 lock 0
+0 fork 1
+1 write 0 0
+0 write 1 1
+1 func_entry
+0 read 1 0
+0 write 2 127012864
+0 read 2 1
+0 write 3 0
+0 write 1 0
+0 read 1 1
+0 unlock 0
+1 lock 0
+0 read 4 127750144
+1 write 5 1
+1 read 5 0
+1 write 6 127012864
+1 read 6 2
+1 write 3 1
+1 write 5 0
+1 read 5 1
+1 unlock 0
+1 func_exit
+0 join 1
+0 read 3 2
